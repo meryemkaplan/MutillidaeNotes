@@ -10,7 +10,7 @@
 
 ## Installation
 
-Video tutorials are available [for each step](README-INSTALLATION.md). If you have a LAMP stack set up
+Video tutorials are available. If you have a LAMP stack set up
 aleady, [you might skip directly to installing Mutillidae](https://www.youtube.com/watch?v=TcgeRab7ayM).
 
 For detailed instructions, see [the comprehensive guide](https://www.youtube.com/playlist?list=PLZOToVAK85MqxEyrjINe-LwDMhxJJKzmm)
